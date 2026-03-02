@@ -20,6 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//added comands
 		
 		//WebDriverManager.ChromeDriver().setup();
 		
